@@ -1,2 +1,2 @@
 # tcheckbox
-TCheckBox widget plugin for the Adianti Framework
+TCheckBox and TDBCheckBox widget plugins for the Adianti Framework

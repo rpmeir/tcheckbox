@@ -1,0 +1,26 @@
+{
+    "name": "rpmeir/tcheckbox",
+    "description": "TCheckBox widget plugin for the Adianti Framework",
+    "type": "library",
+    "keywords": ["checkbox","adianti"],
+    "homepage": "https://github.com/rpmeir/tcheckbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Pires Meira",
+            "email": "rpmeir@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rpmeir/tcheckbox"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "Rpmeir\\TCheckBox\\" : "src"
+        }
+    }
+}
