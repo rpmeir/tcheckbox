@@ -1,6 +1,6 @@
 {
     "name": "rpmeir/tcheckbox",
-    "description": "TCheckBox widget plugin for the Adianti Framework",
+    "description": "TCheckBox and TDBCheckBox widget plugins for the Adianti Framework",
     "type": "library",
     "keywords": ["checkbox","adianti"],
     "homepage": "https://github.com/rpmeir/tcheckbox",
